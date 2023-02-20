@@ -13,9 +13,9 @@ Contains examples of basic C++ syntax and programming constructs.
 Contains exercises and examples of control flow statements such as if, switch, and loops.
 ### functions:  
 Contains exercises and examples of writing and using functions in C++.
-###arrays: 
+### arrays: 
 Contains exercises and examples of working with arrays and pointers in C++.
-###classes:
+### classes:
 Contains exercises and examples of object-oriented programming using classes and objects.
 Each subdirectory contains its own README.md file with more detailed information about the exercises and examples it contains.
 
